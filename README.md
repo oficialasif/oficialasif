@@ -93,12 +93,12 @@ const asif = {
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oficialasif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=oficialasif&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A78BFA&currStreakLabel=E5E7EB" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oficialasif&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=oficialasif&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialasif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&langs_count=10" alt="Top Languages" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oficialasif&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -113,7 +113,7 @@ const asif = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oficialasif&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=oficialasif&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
