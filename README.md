@@ -93,26 +93,18 @@ const asif = {
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oficialasif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oficialasif&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A78BFA&currStreakLabel=E5E7EB" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oficialasif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=oficialasif&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A78BFA&currStreakLabel=E5E7EB" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialasif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&langs_count=8" alt="Top Languages" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialasif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&langs_count=10" alt="Top Languages" />
 </div>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oficialasif/oficialasif/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oficialasif/oficialasif/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oficialasif/oficialasif/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oficialasif&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=A78BFA&point=E5E7EB" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=oficialasif&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=A78BFA&point=E5E7EB" alt="Contribution Graph" />
 </div>
 
 ---
