@@ -16,6 +16,15 @@ if (typeof window !== "undefined") {
 // Placeholder data
 const projects = [
     {
+        title: "The Retro Life",
+        description: "A premium t-shirt brand featuring retro and pop-culture designs with a modern shopping experience.",
+        tags: ["E-commerce", "Brand", "Next.js", "React"],
+        image: "/projects/the_retro_life_cover.png",
+        github: "#",
+        demo: "https://retrolifebd.vercel.app/",
+        color: "from-cyan-500 to-purple-600"
+    },
+    {
         title: "Diu Esports Community",
         description: "Official platform for DIU Esports Community with tournament management and team registration.",
         tags: ["Next.js", "React", "Node.js", "Tailwind"],
