@@ -120,7 +120,7 @@ Official DIU Esports community platform for tournaments, team events & gaming co
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oficialasif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3" alt="Asif Mahmud GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oficialasif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3" alt="Asif Mahmud GitHub Stats"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialasif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" alt="Top Languages"/>
 
